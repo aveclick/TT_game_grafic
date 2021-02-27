@@ -57,6 +57,7 @@ count_pobeda_dict = dict()
 sign_of_user_dict = dict()
 sign_of_computer_dict = dict()
 buttons_list_dict = dict()
+win_size_dict = dict()
 first_dict = dict()
 
 name = 'Tester'
